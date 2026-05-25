@@ -1,4 +1,4 @@
-# MDO Conference How-To
+# MacDevOps Conference Recipe and Philosophy
 
 This is the recipe for an MDO-style conference: the ingredients, values, and design choices that make the event useful, welcoming, and worth coming back to.
 
